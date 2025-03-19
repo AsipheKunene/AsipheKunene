@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AsipheKunene
 - 👀 I’m interested in data analysis and cloud technology, as well as how tech can merge with other fields such as media, climate and the environment.
-- 🌱 I’m currently learning advanced data analysis techniques as well as cloud engineering.
+- 🌱 I’m currently learning advanced data analysis techniques, Linux as well as cloud engineering.
 - 📫 How to reach me: [Email](kuneneasiphe@gmail.com) or [connect with me on LinkedIn](https://www.linkedin.com/in/asiphe-kunene-b2712b206/).
 - ⚡ Current hobbies: film and TV analysis, learning Mandarin Chinese (你好！😁🇨🇳)
